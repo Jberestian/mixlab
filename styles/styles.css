@@ -5,3 +5,15 @@
 .advert__list {
   display: flex;
 }
+
+.nav__list {
+  display: flex;
+}
+
+.nav__item {
+  margin-right: 20px;
+}
+
+.nav__item:last-child {
+  margin-right: 0px;
+}
