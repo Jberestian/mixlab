@@ -28,7 +28,7 @@
   font-family: Roboto;
   font-weight: 400;
   font-size: 14px;
-  line-height: 18.2px;
+  line-height: 18px;
   color: #6F1EAA;
   background-color: inherit;
   border: none;
@@ -45,23 +45,26 @@
 
 .pharmacy {
   background: url(/image/bottom.svg) no-repeat #FEF7E5;
+  padding: 102px 244px 384px 384px;
 }
 
 .pharmacy__info {
-  /* align-content: center; */
+  /* width: 642px; */
 }
 
 .pharmacy__title {
   margin: 0;
+  padding-bottom: 32px;
   font-family: Roboto;
   font-weight: 400;
   font-size: 55px;
   line-height: 67px;
-  /* text-align: center; */
+  text-align: center;
   color: #000000;
 }
 .pharmacy__text {
   margin: 0;
+  padding-bottom: 32px;
   font-family: Roboto;
   font-weight: 400;
   font-size: 20px;
@@ -70,14 +73,26 @@
   color: #000000;
 }
 
+.pharmacy__btn__block {
+  display: flex;
+  justify-content: center;
+}
+
 .pharmacy__btn {
-  background-color:#6F1EAA;
-  color: #FFFFFF;
+  padding: 14px 40px;
+  font-family: Roboto;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 18px;
+  color: #ffffff;
+  background-color: #6F1EAA;
+  border: none;
+  border-radius: 24px;
 }
 
 .dalmatian__title {
   font-family: Roboto;
-  font-weight: 400;
+  font-weight: 700;
   font-size: 44px;
   line-height: 53px;
   color: #000000;
