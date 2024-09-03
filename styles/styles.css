@@ -1,10 +1,24 @@
+.header {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.nav__list {
+  display: flex;
+}
+
 .nav__link {
   font-family: Roboto;
   font-weight: 400;
   font-size: 14px;
   line-height: 18.2px;
   color: #000000;
+  margin-right: 33px;
 }
+/* 
+.nav__link:last-child {
+  margin-right: 0px;
+} */
 
 .registr__btn {
 
@@ -16,17 +30,15 @@
 }
 
 .registr_btn {
-  font-family: Roboto;
-  font-weight: 400;
-  font-size: 14px;
-  line-height: 18.2px;
+ font-family: Roboto;
+ font-weight: 400;
+ font-size: 14px;
+ line-height: 18.2px;
  background-color: #6F1EAA;
  color: #FFFFFF;
 }
 
 .pharmacy {
-  width: 1440px;
-  height: 651px;
   background-color: #FEF7E5;
 }
 
@@ -39,9 +51,6 @@
   color: #000000;
 }
 .pharmacy__text {
-  width: 491px;
-  height: 68px;
-  left: 11px;
   font-family: Roboto;
   font-weight: 400;
   font-size: 20px;
@@ -383,15 +392,11 @@
 }
 
 .advertising {
-  width: 1440px;
-  height: 151px;
   background-color: #6F1EAA;
 }
 
 
 .footer {
-  width: 1440px;
-  height: 430px;
   background-color: #48156D;
 }
 
@@ -451,8 +456,6 @@
 }
 
 .social__ico {
-  width: 9.72px;
-  height: 24px;
   color: #000000;
   
 }
