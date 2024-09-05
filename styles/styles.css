@@ -12,7 +12,7 @@
   font-family: Roboto;
   font-weight: 400;
   font-size: 14px;
-  line-height: 18.2px;
+  line-height: 18px;
   color: #000000;
 }
 
@@ -46,10 +46,6 @@
 .pharmacy {
   background: url(/image/bottom.svg) no-repeat #FEF7E5;
   padding: 102px 244px 384px 384px;
-}
-
-.pharmacy__info {
-  /* width: 642px; */
 }
 
 .pharmacy__title {
@@ -118,7 +114,7 @@
   font-family: Roboto;
   font-weight: 700;
   font-size: 24px;
-  line-height: 31.68px;
+  line-height: 31px;
   color: #6F1EAA;
 }
 
@@ -126,7 +122,7 @@
   font-family: Roboto;
   font-weight: 400;
   font-size: 16px;
-  line-height: 22.72px;
+  line-height: 22px;
   color: #000000;
 }
 
@@ -134,7 +130,7 @@
   font-family: Roboto;
   font-weight: 700;
   font-size: 24px;
-  line-height: 31.68px;
+  line-height: 31px;
   color: #6F1EAA;
 }
 
@@ -142,23 +138,15 @@
   font-family: Roboto;
   font-weight: 400;
   font-size: 16px;
-  line-height: 22.72px;
+  line-height: 23px;
   color: #000000;  
-}
-
-.right_title {
-  font-family: Roboto;
-  font-weight: 700;
-  font-size: 24px;
-  line-height: 31.68px;
-  color: #6F1EAA;
 }
 
 .right__headline {
   font-family: Roboto;
   font-weight: 400;
   font-size: 16px;
-  line-height: 22.72px;
+  line-height: 23px;
   color: #000000;  
 }
 
