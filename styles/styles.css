@@ -150,22 +150,22 @@
   color: #000000;  
 }
 
-/* .works__title {
+.works__title {
   font-family: Roboto;
   font-weight: 400;
   font-size: 44px;
   line-height: 53px;
   text-align: center;
   color: #000000;   
-} */
+} 
 
-/* .works__title {
+.works__card__title {
   font-family: Roboto;
   font-weight: 400;
   font-size: 24px;
   line-height: 31.68px;
   color: #6F1EAA;   
-} */
+} 
 
 .works__text {
   font-family: Roboto;
@@ -192,14 +192,6 @@
   text-align: center;
   color: #000000
 }
-
-/* .works_title {
-  font-family: Roboto;
-  font-weight: 400;
-  font-size: 24px;
-  line-height: 31.68px;
-  color: #6F1EAA 
-} */
 
 .works_text {
   font-family: Roboto;
@@ -262,23 +254,6 @@
   text-align: center;
   color: #000000; 
 }
-/* 
-.descr__text {
-  font-family: Roboto;
-  font-weight: 400;
-  font-size: 20px;
-  line-height: 33px;
-  text-align: center;
-  color: #000000; 
-}
-
-.descr__link {
-  font-family: Roboto;
-  font-weight: 400;
-  font-size: 20px;
-  line-height: 33px;
-  color: #000000; 
-}
 
 .descr_text {
   font-family: Roboto;
@@ -293,9 +268,9 @@
   font-family: Roboto;
   font-weight: 400;
   font-size: 20px;
-  line-height: 33px; */
-  /* color: #000000; 
-} */
+  line-height: 33px; 
+  color: #000000; 
+} 
 
 .descr__sub__text {
   font-family: Roboto;
